@@ -1,1 +1,1 @@
-# Photo to Monet: CycleGan
+# Horse to Zebra: CycleGan
